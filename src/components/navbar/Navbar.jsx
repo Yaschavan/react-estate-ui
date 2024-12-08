@@ -16,7 +16,7 @@ function Navbar(){
                    <span>Real Estate</span>
                 </Link>
                 <Link to="/home">Home</Link>
-                <Link to="/">About</Link>
+                <Link to="/list">About</Link>
                 <Link to="/">Contact Us</Link>
                 <Link to="/">Agents</Link>
 
