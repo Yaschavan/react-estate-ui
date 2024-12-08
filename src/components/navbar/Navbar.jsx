@@ -15,7 +15,7 @@ function Navbar(){
                    <img src="/logo.png" alt="" />
                    <span>Real Estate</span>
                 </Link>
-                <Link to="/">Home</Link>
+                <Link to="/home">Home</Link>
                 <Link to="/">About</Link>
                 <Link to="/">Contact Us</Link>
                 <Link to="/">Agents</Link>
